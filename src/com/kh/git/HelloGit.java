@@ -18,6 +18,7 @@ public class HelloGit {
 		Cat cat = new Cat();
 		cat.miao();
 		
+		//이거 수업 내용 6월 13일이다 앞에 인코딩하는거 까먹으면 보셈
 		//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
 	}
 }
